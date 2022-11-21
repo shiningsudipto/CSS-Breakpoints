@@ -1,0 +1,20 @@
+/*------------------------------
+     Media Query|Responsive
+------------------------------*/
+/* Mobile */
+@media all and (max-width: 480px) {}
+
+/* large phones/landscape */
+@media all and (max-width: 600px) {}
+
+/* portrait tablets */
+@media all and (min-width: 600px) {}
+
+/* landscape tablets */
+@media all and (min-width: 768px) {}
+
+/* laptops/desktops */
+@media all and (min-width: 992px) {}
+
+/* Extra large screens, TV */
+@media all and (min-width: 1200px) {}
